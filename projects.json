@@ -10,5 +10,11 @@
       "live": "https://chirpchef.onrender.com/recipes",
       "git": "https://github.com/chloerodd/ChirpChef",
       "image": "https://i.imgur.com/NhSIsEQ.png"
+    },
+    {
+      "name": "Calypso",
+      "live": "",
+      "git": "https://github.com/amerazo/calypso-front",
+      "image": ""
     }
   ]
